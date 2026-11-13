@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">QRVault</string>
+    <string name="full_app_name">QRVault – Smart Contact QR Sharing</string>
+    <string name="tagline">Scan. Save. Share.</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="welcome_message">Welcome to QRVault!</string>
+    <string name="dashboard_subtitle">Quick contact QR generation &amp; scanning</string>
+    <string name="card_contacts">Contacts</string>
+    <string name="card_contacts_desc">Browse and select contacts</string>
+    <string name="card_generate">Generate QR</string>
+    <string name="card_generate_desc">Create QR from contact</string>
+    <string name="card_scan">Scan QR</string>
+    <string name="card_scan_desc">Scan code via camera</string>
+    <string name="card_history">QR History</string>
+    <string name="card_history_desc">View saved QR codes</string>
+    <string name="stats_title">Dashboard Statistics</string>
+    <string name="stat_total_generated">Total Generated</string>
+    <string name="stat_total_saved">Saved QRs</string>
+    <string name="stat_recent_qr">Recent QR</string>
+    <string name="no_recent_qr">None yet</string>
+
+    <!-- Contacts -->
+    <string name="search_contacts">Search contacts by name...</string>
+    <string name="permission_contacts_title">Contact Permission Required</string>
+    <string name="permission_contacts_message">QRVault needs access to your contacts to generate contact QR codes for sharing.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="no_contacts_found">No contacts found</string>
+
+    <!-- QR Generator -->
+    <string name="qr_generator_title">Generated Contact QR</string>
+    <string name="qr_success_message">QR Code generated successfully!</string>
+    <string name="save_qr">Save QR Code</string>
+    <string name="share_qr">Share QR Code</string>
+    <string name="regenerate_qr">Regenerate QR Code</string>
+    <string name="back_to_contacts">Back to Contacts</string>
+    <string name="qr_saved_success">QR Code saved to gallery successfully!</string>
+    <string name="qr_save_error">Failed to save QR Code.</string>
+
+    <!-- Scanner -->
+    <string name="scanner_title">Scan Contact QR Code</string>
+    <string name="scanner_instruction">Align QR code inside the frame to scan</string>
+    <string name="permission_camera_message">Camera access is required to scan QR codes.</string>
+
+    <!-- History -->
+    <string name="history_title">QR Code History</string>
+    <string name="empty_history">No saved QR codes found.\nGenerated QR codes will appear here.</string>
+    <string name="delete_confirm_title">Delete History Item</string>
+    <string name="delete_confirm_message">Are you sure you want to delete this QR history record?</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="about_title">About QRVault</string>
+    <string name="about_desc">QRVault is a modern Android application for generating, saving, scanning, and sharing vCard-formatted contact QR codes securely on your device.</string>
+    <string name="privacy_title">Privacy Information</string>
+    <string name="privacy_desc">QRVault operates entirely offline on your device. Your contacts and QR code history are stored locally and are never uploaded to any external server.</string>
+    <string name="clear_history">Clear All QR History</string>
+    <string name="clear_history_confirm">Are you sure you want to delete all saved QR history? This action cannot be undone.</string>
+    <string name="app_version">Version 1.0.0</string>
+</resources>

@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Outer Shield / Vault Frame -->
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M48,8 L80,20 V48 C80,68 66,84 48,90 C30,84 16,68 16,48 V20 L48,8 Z" />
+    <!-- Inner White Core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,16 L72,26 V48 C72,63 61,76 48,81 C35,76 24,63 24,48 V26 L48,16 Z" />
+    <!-- Center QR Pattern Accent -->
+    <path
+        android:fillColor="#C2185B"
+        android:pathData="M34,34 H44 V44 H34 Z M52,34 H62 V44 H52 Z M34,52 H44 V62 H34 Z M52,52 H62 V62 H52 Z M44,44 H52 V52 H44 Z" />
+</vector>
