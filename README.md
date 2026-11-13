@@ -180,6 +180,15 @@ Here are planned future features and enhancements for upcoming releases of **QRV
 - Biometric (Fingerprint / Face Unlock) or PIN lock protection for accessing saved QR history and confidential contact records.
 
 ---
+<img width="720" height="1600" alt="1" src="https://github.com/user-attachments/assets/4b08081f-842e-4f02-982d-31a6833007e4" />
+<img width="720" height="1600" alt="2" src="https://github.com/user-attachments/assets/04f7b5c0-a8e8-4b59-9d50-5b6e58162746" />
+<img width="720" height="1600" alt="3" src="https://github.com/user-attachments/assets/e2c8165a-ed17-4b89-bfa4-d9ac8f5f2c9e" />
+<img width="720" height="1600" alt="11" src="https://github.com/user-attachments/assets/841fafbb-58b5-4fcc-a774-a0f314124fa2" />
+<img width="720" height="1600" alt="15" src="https://github.com/user-attachments/assets/a4b67d2a-d684-4b2d-90e7-d43dee9d8549" />
+<img width="720" height="1600" alt="16" src="https://github.com/user-attachments/assets/a674e9e7-a7a7-4ce7-a829-79b9c9795302" />
+
+
+
 
 ## 📄 License
 
